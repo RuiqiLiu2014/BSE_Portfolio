@@ -12,7 +12,7 @@ My final milestone is getting the sensor to work.
 ![coming soon](https://www.comingsoon.net/wp-content/themes/comingsoon/images/cs_default_image.jpg){:target="_blank" rel="noopener"}
 
 # Second Milestone
-my second milestone is to get the app to control the arm
+My second milestone is to get the app to control the arm via bluetooth. This was done using an ESP-32 chip, which is like an Arduino with bluetooth capabilities. Using MIT App Inventor, I finished 
 ![coming soon](https://www.comingsoon.net/wp-content/themes/comingsoon/images/cs_default_image.jpg){:target="_blank" rel="noopener"}
 
 # First Milestone
