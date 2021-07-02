@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robotic Arm
-I am working on a robotic arm powered by Arduino. 
+I am working on a robotic arm powered by Arduino controlled by a phone app.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,7 +7,10 @@ I am working on a robotic arm powered by Arduino.
 
 [![Headstone Image](https://www.linkpicture.com/q/IMG_0370.jpg)](https://www.linkpicture.com/view.php?img=LPic60df40fb0e590339483990)
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625243052/video_to_markdown/images/youtube--4JyxNyno2K0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=4JyxNyno2K0 "Final Milestone"){:target="_blank" rel="noopener"}
+# Reflection
+
+
+[![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625243052/video_to_markdown/images/youtube--4JyxNyno2K0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=4JyxNyno2K0 "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Final Milestone
 My final milestone is getting the sensor to work, which turned out to be the most difficult milestone. I added a switch on the app. When the switch was enabled, the claw would automatically close around anything that got too close, and when nothing was close it would open. This also works if the arm moves toward something; it will grab it if it is within range.
