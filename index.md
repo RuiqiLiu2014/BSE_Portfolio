@@ -22,4 +22,5 @@ My second milestone is to get the app to control the arm via bluetooth. This was
 My first milestone is to finish building the arm, and to get the motors to control it. There are 4 servos, which are powered by an Arduino and a 6V battery pack. The servos control rotation of the base, opening and closing of the claw, and motion of the arm (forward/backward/left/right). They are controlled by an Arduino computer program where you can enter degree numbers and that will rotate each servo individually to any degree (between 0 and 180).
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624292482/video_to_markdown/images/youtube---N_VIP6raiM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-N_VIP6raiM "First Milestone"){:target="_blank" rel="noopener"}
 
+This is the circuit diagram with the servos.
 [![image](https://www.linkpicture.com/q/Screen-Shot-2021-06-27-at-11.30.40-AM_1.png)](https://www.linkpicture.com/view.php?img=LPic60df4169119ea1666372217)
